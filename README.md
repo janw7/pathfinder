@@ -9,7 +9,7 @@ Unlike consumer mapping tools (e.g., Google Maps), Pathfinder is designed around
 
 
 
-https://github.com/user-attachments/assets/0da14527-fcaf-4a3e-9a86-24bb590fab42
+https://github.com/user-attachments/assets/4d94a3e5-3930-47fe-ba2b-4bdc5f9807b2
 
 
 
