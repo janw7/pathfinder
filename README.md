@@ -1,3 +1,4 @@
+
 # Pathfinder — Fleet Dispatch & Carbon Footprint Tracker
 
 Pathfinder is a B2B web application for fleet dispatchers to plan, optimize, and track multi-stop courier routes — with built-in CO₂ emission accounting per vehicle class.
@@ -6,7 +7,11 @@ Unlike consumer mapping tools (e.g., Google Maps), Pathfinder is designed around
 
 ## Live Demo
 
-<!-- DRAG AND DROP DEMO VIDEO HERE -->
+
+
+https://github.com/user-attachments/assets/0da14527-fcaf-4a3e-9a86-24bb590fab42
+
+
 
 ## Key Features
 
