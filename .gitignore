@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+*.sqlite3
+
+# Build output
+dist/
+
+# Environment
+.env
+
+# macOS
+.DS_Store
